@@ -65,3 +65,72 @@
     text-align: center;
 
 }
+
+.reloj { width: 150px; height: 30px; padding: 5px 10px; border: 1px solid black; 
+    font: bold 1.3em dotum, "lucida sans", arial; 
+    text-align: center;
+    float: right; margin: 1em 3em 1em 1em; }
+
+    .colorRG{
+        color: white;
+        text-align: center;
+    }
+    .error-control {
+        border: 1px solid rgba(255, 0, 0, 0.462);
+    }
+
+    label.error {
+        color: rgba(255, 0, 0, 0.462);
+        width: 300px;
+        font-size: 0.8em;
+        margin-top: -5px;
+        margin-bottom: 10px;
+    }
+
+    .colorAPI{
+        color: black;
+        text-align: center;
+    }
+
+    #cajacontacto{
+        align-items: center;
+        text-align: center;
+    
+    
+    }
+    
+    
+    
+    input {
+    
+        width: 180px;
+        margin-bottom: 5px;
+    }
+    
+    label {
+        clear: both;
+        float: center;
+        width: 150px;
+    }
+    
+    button {
+        clear: both;
+        float: center;
+        width: 80px;
+    }
+    
+    .bg-image-vertical {
+        position: relative;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        background-position: right center;
+        background-size: auto 100%;
+        }
+    
+        @media (min-width: 1025px) {
+        .h-custom-2 {
+        height: 100%;
+        }
+        }
+
+        
