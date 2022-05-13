@@ -1,0 +1,67 @@
+.color{
+    color: white;
+}
+
+
+
+  footer{
+    padding: 1px;
+    color: #c5c5c5;
+    background-color: #3b5742;
+    height: 170px;
+    margin-top: 10px;
+    text-align: center;
+    
+
+  }
+
+ .centro{
+
+     font-size: 30px;
+     text-align: center;
+ }
+
+ .colorFQ {
+     background-color: #4c9153;
+     color: rgb(255, 255, 255);
+
+ }
+
+ .centroyt {
+    text-align: center;
+    background-color: #4c9153;
+     color: rgb(255, 255, 255);
+ }
+
+ .div-vid{
+     display:flex;
+    flex-wrap: wrap;
+    padding: 40px 0 40px 0;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: #4c9153;
+    color: rgb(255, 255, 255);
+ }
+
+ .colorbtn {
+    color: rgb(255, 255, 255);
+ }
+
+ .colorFQ1 {
+    background-color: #4c9153;
+    color: rgb(255, 255, 255);
+ }
+
+ .centroimg{
+
+    align-items: center;
+    text-align: center;
+}
+
+.colorFQ1 {
+    background-color: #4c9153;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
